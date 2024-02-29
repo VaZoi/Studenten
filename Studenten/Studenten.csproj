@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\xampp\htdocs\test\Github\school\C#\02-YEAR\03-Periode\29-02-2024_Studenten opdracht\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
   </ItemGroup>
 
